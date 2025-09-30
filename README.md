@@ -1,4 +1,4 @@
-# Zhanhong    Chen
+# Zhanhong Chen
 
 Hello! My name is Zhanhong Chen, and this is my first repository on GitHub.  
 I am interested in statistics, data analysis, and time series methods, and I hope to keep improving my skills while sharing my learning journey here with others.  
@@ -12,4 +12,4 @@ Outside of academics, I like playing **Go**, a traditional board game of strateg
 - Least favourite course: Calculus  
 - Hobby: Playing Go  
 
-[GitHb.com](https://github.com).
+[GitHub.com](https://github.com).
